@@ -13,7 +13,7 @@ This is a playable tic-tac-toe game made in React as a introduction and tutorial
   - importance of immutability
   - using keys for lists
 
-## Roadmaps
+## Roadmap
 
 To further learn and explore React, I plan to customize this game and add the following:
 
