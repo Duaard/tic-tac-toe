@@ -1,3 +1,26 @@
+# Tic-Tac-Toe intro to React
+
+This is a playable tic-tac-toe game made in React as a introduction and tutorial. The full tutorial can be found [here](https://reactjs.org/tutorial/tutorial.html).
+
+## Learnings
+
+- Get grasp of React basics
+  - components
+  - props
+  - state handling
+- Conventions and best practices
+  - giving state control to parent objects
+  - importance of immutability
+  - using keys for lists
+
+## Roadmaps
+
+To further learn and explore React, I plan to customize this game and add the following:
+
+- Web design
+- Score for X and O
+- New game button
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
